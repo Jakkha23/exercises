@@ -1,1 +1,1 @@
-//det här är en kommentar
+//det här är en kommentar.
